@@ -10,7 +10,7 @@
 
 | Project | What I did |
 |---|---|
-| [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) · 26k★ | Drop the empty weekend and overnight rows from 30-minute price history; accept a tuple or set of symbols in `Tickers` ([#3053](https://github.com/ranaroussi/yfinance/pull/3053), [#3055](https://github.com/ranaroussi/yfinance/pull/3055)) |
+| [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) · 26k★ | Drop the empty weekend and overnight rows from 30-minute price history; accept numpy integers and `numpy.datetime64` as start/end dates; accept a tuple or set of symbols in `Tickers` ([#3053](https://github.com/ranaroussi/yfinance/pull/3053), [#3054](https://github.com/ranaroussi/yfinance/pull/3054), [#3055](https://github.com/ranaroussi/yfinance/pull/3055)) |
 | [bokeh/bokeh](https://github.com/bokeh/bokeh) · 20k★ | Fixed reST directives that silently hid sections of the docs ([#15795](https://github.com/bokeh/bokeh/pull/15795)) |
 | [adbar/trafilatura](https://github.com/adbar/trafilatura) · 7k★ | Resolve relative links against the page URL and `<base href>` ([#1170](https://github.com/adbar/trafilatura/pull/1170)) |
 | [analogjs/analog](https://github.com/analogjs/analog) · 3k★ | Stack overflow on large inline sourcemaps; i18n prerender routes; sitemap route filtering ([#2796](https://github.com/analogjs/analog/pull/2796), [#2807](https://github.com/analogjs/analog/pull/2807), [#2808](https://github.com/analogjs/analog/pull/2808)) |
