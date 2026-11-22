@@ -19,6 +19,7 @@
 | [patoles/agent-flow](https://github.com/patoles/agent-flow) · 2k★ | Match parallel tool calls by tool-use id in the Claude Code / Codex visualizer ([#110](https://github.com/patoles/agent-flow/pull/110)) |
 | [optiland/optiland](https://github.com/optiland/optiland) · 1k★ | Read CODE V central obscurations correctly so lens files round-trip ([#1206](https://github.com/optiland/optiland/pull/1206)) |
 | [mdshw5/pyfaidx](https://github.com/mdshw5/pyfaidx) | FASTA long names with CRLF / comments, and BGZF files over 64 KiB ([#255](https://github.com/mdshw5/pyfaidx/pull/255), [#256](https://github.com/mdshw5/pyfaidx/pull/256)) |
+| [GalSim-developers/GalSim](https://github.com/GalSim-developers/GalSim) | Skip a redundant copy when the random-number generators fill NumPy arrays in place, used in astronomical image simulations ([#1381](https://github.com/GalSim-developers/GalSim/pull/1381)) |
 | [ember-cli/eslint-plugin-ember](https://github.com/ember-cli/eslint-plugin-ember) | Autofixes that produced broken templates or changed behavior ([#2895](https://github.com/ember-cli/eslint-plugin-ember/pull/2895), [#2897](https://github.com/ember-cli/eslint-plugin-ember/pull/2897), [#2898](https://github.com/ember-cli/eslint-plugin-ember/pull/2898), [#2899](https://github.com/ember-cli/eslint-plugin-ember/pull/2899)) |
 
 #### Projects
