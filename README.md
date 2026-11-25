@@ -31,6 +31,7 @@
 | [mdshw5/pyfaidx](https://github.com/mdshw5/pyfaidx) | FASTA long names with CRLF / comments, BGZF files over 64 KiB, and tests for editing CRLF files in place ([#255](https://github.com/mdshw5/pyfaidx/pull/255), [#256](https://github.com/mdshw5/pyfaidx/pull/256), [#257](https://github.com/mdshw5/pyfaidx/pull/257)) |
 | [GalSim-developers/GalSim](https://github.com/GalSim-developers/GalSim) | Skip a redundant copy when the random-number generators fill NumPy arrays in place, used in astronomical image simulations ([#1381](https://github.com/GalSim-developers/GalSim/pull/1381)) |
 | [ember-cli/eslint-plugin-ember](https://github.com/ember-cli/eslint-plugin-ember) | Autofixes that produced broken templates or changed behavior ([#2895](https://github.com/ember-cli/eslint-plugin-ember/pull/2895), [#2897](https://github.com/ember-cli/eslint-plugin-ember/pull/2897), [#2898](https://github.com/ember-cli/eslint-plugin-ember/pull/2898), [#2899](https://github.com/ember-cli/eslint-plugin-ember/pull/2899)) |
+| [cooklang/cooklang-rs](https://github.com/cooklang/cooklang-rs) | Read flat `source.*` keys in recipe metadata, so the recipe source and author show up whichever way a recipe writes them ([#160](https://github.com/cooklang/cooklang-rs/pull/160)) |
 
 #### Projects
 
