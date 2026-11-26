@@ -1,8 +1,9 @@
 ### Hi, I'm Johnny 👋
 
-**Quant research · EdTech · Open-source contributor**
+**Quant research · Energy · EdTech · Open-source contributor**
 
 - 📈 Quantitative research in Python
+- ☀️ Energy: perovskite solar cell research at National Tsing Hua University; gold award in an energy competition
 - 🎓 EdTech: building learning materials and tools for students
 - 🛠️ Open source: bug fixes and features in Python and TypeScript projects
 
